@@ -20,5 +20,6 @@ A simple and elegant Android app built with **Kotlin** and **Jetpack Compose** t
 ## 🤝 Contributing
 Pull requests are welcome. Feel free to fork and improve the project!
 
+---
 
 Made with ❤️ by [Nihar Patil](https://github.com/CodeHub0n)
