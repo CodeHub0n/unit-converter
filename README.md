@@ -22,4 +22,4 @@ Pull requests are welcome. Feel free to fork and improve the project!
 
 ---
 
-Made with ❤️ by [Nihar Patil](https://github.com/CodeHub0n)
+~ [Nihar Patil](https://github.com/CodeHub0n)
