@@ -21,7 +21,6 @@ A simple Android app built with **Kotlin** and **Jetpack Compose** that allows u
 - Android Studio
 
 ## 📸 Screenshots
-
 ![Main Screen](screenshots/screen_main.png)
 ![Swap Screen](screenshots/screen_swap.png)
 
